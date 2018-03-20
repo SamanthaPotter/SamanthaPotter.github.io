@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.samanthapotter.tk" resolutions="1x" timestamp="1521577401960">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.samanthapotter.tk" resolutions="1x" timestamp="1521585583687">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="427776149" ref="index"/>
+    <file name="index.css" crc="313307866" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,6 +13,9 @@
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="169482760" ref="index"/>
+    <file name="twilight on the sunshine coast_ultra hd.jpg" crc="4267344400" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3758436441" seo="true" mt="1521576777977" redirect="true"/>
+  <file name="index.html" crc="4006957536" seo="true" mt="1521585562571" redirect="true"/>
 </manifest>

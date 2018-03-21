@@ -32,7 +32,7 @@ $form = array(
 	),
 	'fields' => array(
 		'custom_U1257' => array(
-			'order' => 1,
+			'order' => 3,
 			'type' => 'string',
 			'label' => 'NAME',
 			'required' => true,
@@ -51,7 +51,7 @@ $form = array(
 			)
 		),
 		'custom_U1243' => array(
-			'order' => 5,
+			'order' => 4,
 			'type' => 'string',
 			'label' => 'Custom:',
 			'required' => false,
@@ -59,21 +59,12 @@ $form = array(
 			)
 		),
 		'custom_U1253' => array(
-			'order' => 3,
+			'order' => 1,
 			'type' => 'string',
 			'label' => 'PHONE',
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'PHONE\' is required.'
-			)
-		),
-		'custom_U1687' => array(
-			'order' => 4,
-			'type' => 'string',
-			'label' => 'Company',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Company\' is required.'
 			)
 		)
 	)

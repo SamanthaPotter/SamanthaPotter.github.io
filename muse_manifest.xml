@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SamanthaPotter.github.io" resolutions="1x" timestamp="1521591292561">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SamanthaPotter.github.io" resolutions="1x" timestamp="1521593840382">
   <folder name="css">
     <file name="site_global.css" crc="286080447"/>
-    <file name="index.css" crc="4218057578" ref="index"/>
+    <file name="index.css" crc="167675380" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,6 +27,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="employment.png" crc="3975249190" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -79,10 +81,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter.png" crc="4102706121" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="linkedin.png" crc="521042319" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,6 +88,11 @@
     <file name="heart_icon.png" crc="233067463" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="books-u1801-fr.png" crc="316115448" ref="index"/>
+    <file name="books.png" crc="3879081351" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="460784620" seo="true" mt="1521591218891" redirect="true"/>
+  <file name="index.html" crc="4199109916" seo="true" mt="1521593765008" redirect="true"/>
 </manifest>

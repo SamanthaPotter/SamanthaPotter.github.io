@@ -31,40 +31,31 @@ $form = array(
 		'to' => 'sambopotter@yahoo.com'
 	),
 	'fields' => array(
-		'custom_U1257' => array(
-			'order' => 3,
+		'custom_U1992' => array(
+			'order' => 1,
 			'type' => 'string',
-			'label' => 'NAME',
+			'label' => 'Name',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'NAME\' is required.'
+				'required' => 'Field \'Name\' is required.'
 			)
 		),
 		'Email' => array(
 			'order' => 2,
 			'type' => 'email',
-			'label' => 'EMAIL',
+			'label' => 'Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'EMAIL\' is required.',
-				'format' => 'Field \'EMAIL\' has an invalid email.'
+				'required' => 'Field \'Email\' is required.',
+				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U1243' => array(
-			'order' => 4,
+		'custom_U2002' => array(
+			'order' => 3,
 			'type' => 'string',
-			'label' => 'Custom:',
+			'label' => 'Message',
 			'required' => false,
 			'errors' => array(
-			)
-		),
-		'custom_U1253' => array(
-			'order' => 1,
-			'type' => 'string',
-			'label' => 'PHONE',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'PHONE\' is required.'
 			)
 		)
 	)
